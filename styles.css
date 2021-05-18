@@ -1,0 +1,110 @@
+
+body{
+    background-color: #a6d6d6;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 2.5rem;
+    color: #a6d6d6;
+font-family: 'Proza Libre', sans-serif;
+}
+
+.camera{
+    height: 300px;
+    width: 450px;
+    background-color: #4b778d;
+    margin-top: 8%;
+    margin-left: 10%;
+    border-radius: 2%;
+    position: absolute;
+}
+
+#videoElement {
+	width: 450px;
+	height: 300px;
+}
+
+.buttons{
+    padding: auto;
+    margin-top: 8%;
+    margin-left: 5%;
+   
+    
+}
+
+.btn{
+    margin: 7%;
+    padding: 0.5% 2%;
+    background-color: #364547;
+    color: white;
+    
+    
+}
+
+.block1{
+    height: 200px;
+    width: 200px;
+    background-color: #5aa897;
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 55%;
+    border-radius: 10%;
+   
+}
+
+.block2{
+    height: 200px;
+    width: 200px;
+    background-color: #5aa897;
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 80%;
+    border-radius: 10%;
+   
+}
+
+.firstdiv{
+    display:inline-block;
+    height: 300px;
+}
+
+
+
+
+.navbar
+{
+    padding: 2%;
+    font-size: 1.3em;
+   
+}
+
+
+
+
+.container-fluid{
+    padding: 0%;
+    
+}
+
+
+
+.navbar-custom {
+    color: #FFFFFF;
+    background-color:black;
+}
+
+
+.heading{
+    padding-top: 5%;
+    text-align: center;
+}
+
+
+
+.header{
+    background-color:#343a40;
+    padding: 2%;
+}
+
